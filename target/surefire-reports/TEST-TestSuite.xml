@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="84.468" tests="192" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_51\jre\bin"/>
+    <property name="java.vm.version" value="24.51-b03"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\eclipse-workspace\CLM_RESTClient_v2.2"/>
+    <property name="java.runtime.version" value="1.7.0_51-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\vysyaki\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.2.1\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_51\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.7.0_51\bin;C:\apache-ant-1.9.3\bin;C:\apache-maven-3.2.1\bin;C:\Python27;C:\Python27\Scripts;D:\eclipse-jee-juno-SR2-win32;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\vysyaki"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="vysyaki"/>
+    <property name="java.class.path" value="C:\apache-maven-3.2.1\bin\..\boot\plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_51\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.7.0_51"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_51\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.2.1\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.012"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="1.191"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.432"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.437"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.419"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.43"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.435"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.429"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.416"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.429"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.434"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.438"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.43"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.421"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.445"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.415"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.445"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.463"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.435"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.443"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.449"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.445"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.441"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.418"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.417"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.419"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.432"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.397"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.427"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.428"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.417"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.42"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.42"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.436"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.407"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.464"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.37"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.421"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.442"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.418"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.424"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.42"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillDispatchMode" time="0.415"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.003"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.617"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.417"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.411"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.407"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.413"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.411"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.405"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.405"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.41"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.415"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.427"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.399"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.405"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.411"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.413"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.412"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.41"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.416"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.397"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.408"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.415"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.41"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.412"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.433"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.379"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.413"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillCycle" time="0.4"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.028"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.694"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.526"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.471"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.464"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.469"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.458"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.472"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.464"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.463"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.462"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.512"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.461"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.46"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.47"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.46"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.45"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.462"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.466"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.46"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.468"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.502"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.453"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.459"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.45"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.454"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.467"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.457"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.516"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.459"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.46"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.474"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.46"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.455"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.496"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.432"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.472"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.492"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.529"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.478"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.467"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.471"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.454"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.462"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.472"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.451"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.455"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.462"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.532"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.456"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.464"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.505"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.417"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.464"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.493"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.444"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.467"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.467"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.534"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.467"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.508"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.464"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.461"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.463"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.453"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.483"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.457"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.465"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.51"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.485"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.46"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.466"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.476"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.458"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.461"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.484"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingAddress" time="0.455"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.003"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.681"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.411"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.408"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.412"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.401"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.416"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.403"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.407"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.401"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.387"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.407"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.412"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.397"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.424"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.418"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.425"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.404"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.404"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.404"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.406"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.396"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.413"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.403"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.411"/>
+  <testcase name="myTest" classname="tests.CLMSR.ChangeBillingLanguage" time="0.414"/>
+</testsuite>

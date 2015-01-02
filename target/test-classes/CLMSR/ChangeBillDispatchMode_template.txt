@@ -1,0 +1,39 @@
+{
+	"serviceRequests" : {
+		"serviceRequestType" : ${serviceRequestType},
+		"serviceRequestSubtype" : ${serviceRequestSubtype},
+		"serviceRequestReasonId" : ${serviceRequestReasonId},
+		"serviceRequestStatus" : ${serviceRequestStatus},
+		"serviceRequestProcessingDate" : ${serviceRequestProcessingDate},
+		"userDetails" : {
+			"userID" : ${userID},
+			"userName" : ${userName}
+		},
+		"customerInfo" : {
+			"customerCode" : ${customerCode},
+			"accountCode" : ${accountCode}
+		},
+		"salesDetails" : {
+			"salesChannel" : ${salesChannel},
+			"salesLocation" : ${salesLocation}
+		},
+		"changeOfInformation" : [{
+				"currentBillDispatchDetails" : {
+					"isBillByEmail" : ${currentIsBillByEmail},
+					"isBillByFax" : ${currentIsBillByFax},
+					"isBillByPost" : ${currentIsBillByPost},
+					"emailAddress" : ${currentEmailAddress},
+					"faxno" : ${currentFaxno}
+				}
+			}, {
+				"newBillDispatchDetails" : {
+					"isBillByEmail" : ${newIsBillByEmail},
+					"isBillByFax" : ${newIsBillByFax},
+					"isBillByPost" : ${newIsBillByPost},
+					"emailAddress" : ${newEmailAddress},
+					"faxno" : ${newFaxno}
+				}
+			}
+		]
+	}
+}

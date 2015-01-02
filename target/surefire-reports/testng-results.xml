@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="192" passed="192">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CLMSR Sprint 4" duration-ms="85213" started-at="2014-11-07T04:04:56Z" finished-at="2014-11-07T04:06:21Z">
+    <groups>
+    </groups>
+    <test name="Change Bill Dispatch Mode" duration-ms="19756" started-at="2014-11-07T04:04:56Z" finished-at="2014-11-07T04:05:15Z">
+      <class name="tests.CLMSR.ChangeBillDispatchMode">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="before" is-config="true" duration-ms="24" started-at="2014-11-07T09:34:56Z" finished-at="2014-11-07T09:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="23" started-at="2014-11-07T09:34:56Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:34:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@652f4d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="1188" started-at="2014-11-07T09:34:56Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:34:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1049cbf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="439" started-at="2014-11-07T09:34:57Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:34:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ceffb8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="435" started-at="2014-11-07T09:34:58Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:34:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f6a6ae]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="421" started-at="2014-11-07T09:34:58Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:34:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1390ce1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="429" started-at="2014-11-07T09:34:59Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:34:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7c96c4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="434" started-at="2014-11-07T09:34:59Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@18e2443]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="429" started-at="2014-11-07T09:35:00Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@eecf68]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="417" started-at="2014-11-07T09:35:00Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@72d833]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="424" started-at="2014-11-07T09:35:00Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1d009d5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="432" started-at="2014-11-07T09:35:01Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@135b538]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="444" started-at="2014-11-07T09:35:01Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@10c9d49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="431" started-at="2014-11-07T09:35:02Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12a4f3e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="420" started-at="2014-11-07T09:35:02Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@b887a3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="444" started-at="2014-11-07T09:35:03Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d0dfba]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="415" started-at="2014-11-07T09:35:03Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1103d2a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="444" started-at="2014-11-07T09:35:03Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@11fca63]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="458" started-at="2014-11-07T09:35:04Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@205b65]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="458" started-at="2014-11-07T09:35:04Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@507c5f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="442" started-at="2014-11-07T09:35:05Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@154850]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="444" started-at="2014-11-07T09:35:05Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@13ea022]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="449" started-at="2014-11-07T09:35:06Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@832834]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="444" started-at="2014-11-07T09:35:06Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@c4931d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="438" started-at="2014-11-07T09:35:07Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@19662a5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="420" started-at="2014-11-07T09:35:07Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@266faa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="417" started-at="2014-11-07T09:35:07Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16d071a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="417" started-at="2014-11-07T09:35:08Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@ed6dee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="411" started-at="2014-11-07T09:35:08Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1cc4382]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="419" started-at="2014-11-07T09:35:09Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1640fcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="427" started-at="2014-11-07T09:35:09Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4996ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="426" started-at="2014-11-07T09:35:10Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@152f463]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="417" started-at="2014-11-07T09:35:10Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12ac180]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="421" started-at="2014-11-07T09:35:10Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5c140]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="421" started-at="2014-11-07T09:35:11Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1d28b3b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="420" started-at="2014-11-07T09:35:11Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b2fb88]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="423" started-at="2014-11-07T09:35:12Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@19fbe63]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="422" started-at="2014-11-07T09:35:12Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@8c970a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="413" started-at="2014-11-07T09:35:13Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@103ad6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="421" started-at="2014-11-07T09:35:13Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@186d76f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="428" started-at="2014-11-07T09:35:13Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1a9c687]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="432" started-at="2014-11-07T09:35:14Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@128e28a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="425" started-at="2014-11-07T09:35:14Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@130d29e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="420" started-at="2014-11-07T09:35:15Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@53951e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="myTest" duration-ms="415" started-at="2014-11-07T09:35:15Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16312e6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.CLMSR.ChangeBillDispatchMode@119087d]" name="after" is-config="true" duration-ms="1" started-at="2014-11-07T09:35:15Z" finished-at="2014-11-07T09:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.CLMSR.ChangeBillDispatchMode -->
+    </test> <!-- Change Bill Dispatch Mode -->
+    <test name="Change Bill Cycle" duration-ms="12916" started-at="2014-11-07T04:05:16Z" finished-at="2014-11-07T04:05:28Z">
+      <class name="tests.CLMSR.ChangeBillCycle">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="before" is-config="true" duration-ms="3" started-at="2014-11-07T09:35:16Z" finished-at="2014-11-07T09:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="3" started-at="2014-11-07T09:35:16Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1604c40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="617" started-at="2014-11-07T09:35:16Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12e1a27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="416" started-at="2014-11-07T09:35:16Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b70047]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="412" started-at="2014-11-07T09:35:17Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@17351e4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="406" started-at="2014-11-07T09:35:17Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5787c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="414" started-at="2014-11-07T09:35:17Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1292343]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="410" started-at="2014-11-07T09:35:18Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ca19d8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="406" started-at="2014-11-07T09:35:18Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@166c122]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="405" started-at="2014-11-07T09:35:19Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@111b156]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="410" started-at="2014-11-07T09:35:19Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@919d3e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="404" started-at="2014-11-07T09:35:19Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ea6b61]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="417" started-at="2014-11-07T09:35:20Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12fe9c1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="405" started-at="2014-11-07T09:35:20Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@9bb7f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="421" started-at="2014-11-07T09:35:21Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@14a3622]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="406" started-at="2014-11-07T09:35:21Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1282b42]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="411" started-at="2014-11-07T09:35:21Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@303418]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="412" started-at="2014-11-07T09:35:22Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@ac15cd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="405" started-at="2014-11-07T09:35:22Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1cb839f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="412" started-at="2014-11-07T09:35:23Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2e71fc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="407" started-at="2014-11-07T09:35:23Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@13d701a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="407" started-at="2014-11-07T09:35:24Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@8ad851]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="407" started-at="2014-11-07T09:35:24Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@17fe790]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="409" started-at="2014-11-07T09:35:24Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3bb53f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="406" started-at="2014-11-07T09:35:25Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1f86961]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="414" started-at="2014-11-07T09:35:25Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ce6256]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="406" started-at="2014-11-07T09:35:26Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@9a398d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="410" started-at="2014-11-07T09:35:26Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1385f78]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="412" started-at="2014-11-07T09:35:26Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3d780]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="404" started-at="2014-11-07T09:35:27Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3923e5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="409" started-at="2014-11-07T09:35:27Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16396ae]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="411" started-at="2014-11-07T09:35:28Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1399f26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="myTest" duration-ms="403" started-at="2014-11-07T09:35:28Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ff8cef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.CLMSR.ChangeBillCycle@8e13ab]" name="after" is-config="true" duration-ms="1" started-at="2014-11-07T09:35:28Z" finished-at="2014-11-07T09:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.CLMSR.ChangeBillCycle -->
+    </test> <!-- Change Bill Cycle -->
+    <test name="Change Billing Address" duration-ms="41129" started-at="2014-11-07T04:05:28Z" finished-at="2014-11-07T04:06:10Z">
+      <class name="tests.CLMSR.ChangeBillingAddress">
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="before" is-config="true" duration-ms="3" started-at="2014-11-07T09:35:28Z" finished-at="2014-11-07T09:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="9" started-at="2014-11-07T09:35:28Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1abf05c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="712" started-at="2014-11-07T09:35:29Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1312cf9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="526" started-at="2014-11-07T09:35:29Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@17fcc91]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="471" started-at="2014-11-07T09:35:30Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@14f6322]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="465" started-at="2014-11-07T09:35:30Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f5560e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="468" started-at="2014-11-07T09:35:31Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@e4ec18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="457" started-at="2014-11-07T09:35:31Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@148410b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="473" started-at="2014-11-07T09:35:32Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@a65066]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="465" started-at="2014-11-07T09:35:32Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@e88b23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="462" started-at="2014-11-07T09:35:33Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@106b18e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="461" started-at="2014-11-07T09:35:33Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@72f9c0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="456" started-at="2014-11-07T09:35:33Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6addb8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="513" started-at="2014-11-07T09:35:34Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2699b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="462" started-at="2014-11-07T09:35:34Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6355af]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="464" started-at="2014-11-07T09:35:35Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@18e7e6a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="459" started-at="2014-11-07T09:35:35Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d9e78]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="469" started-at="2014-11-07T09:35:36Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1eeee0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="462" started-at="2014-11-07T09:35:36Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d4cdd5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="449" started-at="2014-11-07T09:35:37Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1156187]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="461" started-at="2014-11-07T09:35:37Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@b61af0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="466" started-at="2014-11-07T09:35:38Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1a2997e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="459" started-at="2014-11-07T09:35:38Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@b5459]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="467" started-at="2014-11-07T09:35:39Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ced25f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="502" started-at="2014-11-07T09:35:39Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1556d56]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="456" started-at="2014-11-07T09:35:40Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@17d59ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="455" started-at="2014-11-07T09:35:40Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@9fa659]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="454" started-at="2014-11-07T09:35:40Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16254c5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="459" started-at="2014-11-07T09:35:41Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@ab8583]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="450" started-at="2014-11-07T09:35:41Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@ca6922]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="466" started-at="2014-11-07T09:35:42Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@bc720e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="454" started-at="2014-11-07T09:35:42Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1e41969]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="467" started-at="2014-11-07T09:35:43Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@407d11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="464" started-at="2014-11-07T09:35:43Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1d2ec59]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="457" started-at="2014-11-07T09:35:44Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@9acf2c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="517" started-at="2014-11-07T09:35:44Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1978340]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="460" started-at="2014-11-07T09:35:45Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2a09a0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="461" started-at="2014-11-07T09:35:45Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1dde775]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="472" started-at="2014-11-07T09:35:46Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@186d72f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="461" started-at="2014-11-07T09:35:46Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1996c2a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="456" started-at="2014-11-07T09:35:47Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@18c5c12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="455" started-at="2014-11-07T09:35:47Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1f0a8b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="476" started-at="2014-11-07T09:35:47Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d2f95b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="454" started-at="2014-11-07T09:35:48Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f0d946]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="464" started-at="2014-11-07T09:35:48Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@48b670]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="473" started-at="2014-11-07T09:35:49Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1c17335]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="472" started-at="2014-11-07T09:35:49Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@172aff0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="538" started-at="2014-11-07T09:35:50Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7cd61b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="488" started-at="2014-11-07T09:35:50Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1cc87e3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="466" started-at="2014-11-07T09:35:51Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@ed7209]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="463" started-at="2014-11-07T09:35:51Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d9d34d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="461" started-at="2014-11-07T09:35:52Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@bf7a35]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="462" started-at="2014-11-07T09:35:52Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f04fcf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="472" started-at="2014-11-07T09:35:53Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@107b408]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="452" started-at="2014-11-07T09:35:53Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@bc9678]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="453" started-at="2014-11-07T09:35:54Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@13ab52c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="463" started-at="2014-11-07T09:35:54Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@14c97d4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="456" started-at="2014-11-07T09:35:54Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1841133]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="531" started-at="2014-11-07T09:35:55Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@185626a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="455" started-at="2014-11-07T09:35:55Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3378]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="464" started-at="2014-11-07T09:35:56Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1332d22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="454" started-at="2014-11-07T09:35:56Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@d82121]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="470" started-at="2014-11-07T09:35:57Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1671cbc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="464" started-at="2014-11-07T09:35:57Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@8f8391]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="466" started-at="2014-11-07T09:35:58Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6a8fb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="474" started-at="2014-11-07T09:35:58Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@13ff9d4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="462" started-at="2014-11-07T09:35:59Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:35:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12add53]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="466" started-at="2014-11-07T09:35:59Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1288528]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="468" started-at="2014-11-07T09:36:00Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@13e07bd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="533" started-at="2014-11-07T09:36:00Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16e1d6b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="469" started-at="2014-11-07T09:36:01Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4d89ab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="508" started-at="2014-11-07T09:36:01Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@8960af]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="464" started-at="2014-11-07T09:36:02Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12abdf5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="466" started-at="2014-11-07T09:36:02Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@11d3b18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="457" started-at="2014-11-07T09:36:03Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12a954]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="467" started-at="2014-11-07T09:36:03Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@12afa0c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="453" started-at="2014-11-07T09:36:03Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@8637c3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="483" started-at="2014-11-07T09:36:04Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b6f4ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="456" started-at="2014-11-07T09:36:04Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@893bd6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="465" started-at="2014-11-07T09:36:05Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b77ca0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="510" started-at="2014-11-07T09:36:05Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@156f055]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="484" started-at="2014-11-07T09:36:06Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@bc6c86]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="460" started-at="2014-11-07T09:36:06Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@78d3d7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="465" started-at="2014-11-07T09:36:07Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@9c00ea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="476" started-at="2014-11-07T09:36:07Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@22c2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="458" started-at="2014-11-07T09:36:08Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@ea2a0d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="456" started-at="2014-11-07T09:36:08Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16ed69e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="489" started-at="2014-11-07T09:36:09Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1cc5d5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="myTest" duration-ms="454" started-at="2014-11-07T09:36:09Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4eecb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.CLMSR.ChangeBillingAddress@3256a5]" name="after" is-config="true" duration-ms="1" started-at="2014-11-07T09:36:10Z" finished-at="2014-11-07T09:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- tests.CLMSR.ChangeBillingAddress -->
+    </test> <!-- Change Billing Address -->
+    <test name="Change Billing Language" duration-ms="11301" started-at="2014-11-07T04:06:10Z" finished-at="2014-11-07T04:06:21Z">
+      <class name="tests.CLMSR.ChangeBillingLanguage">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="beforeSuite" is-config="true" duration-ms="128" started-at="2014-11-07T09:34:56Z" finished-at="2014-11-07T09:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="before()[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="before" is-config="true" duration-ms="5" started-at="2014-11-07T09:36:10Z" finished-at="2014-11-07T09:36:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="2" started-at="2014-11-07T09:36:10Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@130e714]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="680" started-at="2014-11-07T09:36:10Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@192f37b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="410" started-at="2014-11-07T09:36:10Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@af4a7d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="408" started-at="2014-11-07T09:36:11Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@438935]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="412" started-at="2014-11-07T09:36:11Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1e53756]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="402" started-at="2014-11-07T09:36:12Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@193f119]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="416" started-at="2014-11-07T09:36:12Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b9bfe4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="404" started-at="2014-11-07T09:36:12Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1e5305e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="407" started-at="2014-11-07T09:36:13Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1ca7bad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="402" started-at="2014-11-07T09:36:13Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7ddc66]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="406" started-at="2014-11-07T09:36:14Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@110d0b1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="387" started-at="2014-11-07T09:36:14Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f54e75]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="406" started-at="2014-11-07T09:36:14Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f1e6e4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="411" started-at="2014-11-07T09:36:15Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16dad47]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="398" started-at="2014-11-07T09:36:15Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@18b1420]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="425" started-at="2014-11-07T09:36:16Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1d65a49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="418" started-at="2014-11-07T09:36:16Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1c17ff9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="424" started-at="2014-11-07T09:36:16Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@b8f5f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="405" started-at="2014-11-07T09:36:17Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@11be5be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="406" started-at="2014-11-07T09:36:17Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@883936]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="404" started-at="2014-11-07T09:36:18Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1640c9a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="403" started-at="2014-11-07T09:36:18Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@17766aa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="406" started-at="2014-11-07T09:36:18Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1f52ff5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="395" started-at="2014-11-07T09:36:19Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1fb638]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="414" started-at="2014-11-07T09:36:19Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1f45632]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="402" started-at="2014-11-07T09:36:20Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@46efab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="411" started-at="2014-11-07T09:36:20Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@120fb16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="myTest([Ljava.lang.String;)[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="myTest" duration-ms="415" started-at="2014-11-07T09:36:21Z" data-provider="myTestDataProvider" finished-at="2014-11-07T09:36:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@447465]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="after" is-config="true" duration-ms="1" started-at="2014-11-07T09:36:21Z" finished-at="2014-11-07T09:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.CLMSR.ChangeBillingLanguage@4e57ba]" name="afterSuite" is-config="true" duration-ms="1" started-at="2014-11-07T09:36:21Z" finished-at="2014-11-07T09:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.CLMSR.ChangeBillingLanguage -->
+    </test> <!-- Change Billing Language -->
+  </suite> <!-- CLMSR Sprint 4 -->
+  <suite name="Test Suite" duration-ms="0" started-at="2014-11-07T04:06:21Z" finished-at="2014-11-07T04:06:21Z">
+    <groups>
+    </groups>
+  </suite> <!-- Test Suite -->
+</testng-results>

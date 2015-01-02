@@ -1,0 +1,39 @@
+{
+	"serviceRequests" : {
+		"serviceRequestType" : "INVACCUPD",
+		"serviceRequestSubtype" : "CGBILLDISMOD",
+		"serviceRequestReasonId" : "423",
+		"serviceRequestStatus" : "OPEN",
+		"serviceRequestProcessingDate" : "1410287400000",
+		"userDetails" : {
+			"userID" : "123",
+			"userName" : "RAMA"
+		},
+		"customerInfo" : {
+			"customerCode" : "24033",
+			"accountCode" : "25"
+		},
+		"salesDetails" : {
+			"salesChannel" : "CLM",
+			"salesLocation" : "BANGALORE"
+		},
+		"changeOfInformation" : [{
+				"currentBillDispatchDetails" : {
+					"isBillByEmail" : "N",
+					"isBillByFax" : "Y",
+					"isBillByPost" : "",
+					"emailAddress" : "test@gmail.com",
+					"faxno" : "12345"
+				}
+			}, {
+				"newBillDispatchDetails" : {
+					"isBillByEmail" : "Y",
+					"isBillByFax" : "N",
+					"isBillByPost" : "N",
+					"emailAddress" : "testnew@tecno.com",
+					"faxno" : "23456"
+				}
+			}
+		]
+	}
+}

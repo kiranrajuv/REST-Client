@@ -1,0 +1,31 @@
+{
+	"serviceRequests" : {
+		"serviceRequestType" : "INVACCUPD",
+		"serviceRequestSubtype" : "CGBILLLANG",
+		"serviceRequestReasonId" : "423",
+		"serviceRequestStatus" : "OPEN",
+		"serviceRequestProcessingDate" : "1410287400000",
+		"userDetails" : {
+			"userID" : "123",
+			"userName" : "IND"
+		},
+		"customerInfo" : {
+			"customerCode" : "24033",
+			"accountCode" : "25"
+		},
+		"salesDetails" : {
+			"salesChannel" : 6456,
+			"salesLocation" : "Bangalore"
+		},
+		"changeOfInformation" : [{
+				"currentbillLanguageDetails" : {
+					"currentbillLanguageId" : "English"
+				}
+			}, {
+				"newbillLanguageDetails" : {
+					"newbillLanguageId" : "Spanish"
+				}
+			}
+		]
+	}
+}
