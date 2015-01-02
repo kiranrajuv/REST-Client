@@ -4,7 +4,7 @@
 	<groupId>RESTClient</groupId>
 	<artifactId>RESTClient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RESTClient for CLM</name>
+	<name>RESTClient By Kiranraju</name>
 	<description>RESTClient by Kiranraju</description>
 	<dependencies>
 		<dependency>
